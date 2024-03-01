@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @DuckmanIT
-
+- 👋 Hi, I’m Hoàng Hữu Đức 
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on some good companies
